@@ -1,9 +1,6 @@
 # hosted link::https://amit848211.github.io/major_project/
 # repo link::https://github.com/Amit848211/major_project
-# intro::
 
-https://github.com/Amit848211/major_project/assets/111532901/b9fb7a97-1009-473d-8db8-30f5748cb5b7
-# screen recording::https://onedrive.live.com/?cid=7C9EDFD6142C951B&id=7C9EDFD6142C951B%21632&parId=root&o=OneUp
 #![Screenshot 2023-08-28 150925](https://github.com/Amit848211/major_project/assets/111532901/a557f001-824c-41aa-a23e-4e8037bb69c1)
 ![Screenshot 2023-08-28 150833](https://github.com/Amit848211/major_project/assets/111532901/fb074fd1-74b4-407b-9be8-78ecae5f69b0)
 ![Screenshot 2023-08-28 150800](https://github.com/Amit848211/major_project/assets/111532901/9cf85378-95d5-4077-9a40-f535e79a28c4)
